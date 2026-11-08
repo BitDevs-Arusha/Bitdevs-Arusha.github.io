@@ -1,0 +1,7 @@
+title: 'BitDevs Arusha'
+tagline: 'Discuss · Learn · Build Bitcoin'
+
+menu:
+  - {name: 'About', url: '/about'}
+  - {name: 'Archive', url: '/events.html'}
+  - {name: 'Events', url: 'https://luma.com/user/usr-Oqo0kliWcyWDj2F', external: true}
