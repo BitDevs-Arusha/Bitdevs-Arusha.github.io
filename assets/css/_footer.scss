@@ -12,6 +12,10 @@
     display: flex;
     justify-content: space-between;
 
+    .Footer-links a + a {
+      margin-left: 1.5rem;
+    }
+
     a {
       color: #333;
       opacity: 0.4;
