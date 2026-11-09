@@ -3,7 +3,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title
 plugins: [jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
-url: https://www.bitdevs-arusha.github.io
+url: https://bitdevsarusha.org
 
 sass:
   sass_dir: assets/css
